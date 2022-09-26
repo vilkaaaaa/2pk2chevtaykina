@@ -19,12 +19,23 @@
             {
                 for(int n = 0; n<6; n++)
                 {
-                    Console.WriteLine(n);
+                    Console.WriteLine('#');
                 }
                 Console.WriteLine();
             }
             Console.WriteLine("задание 4");
-            for (int i = 0; i < 100; )
+            for (int i = 0; i <= 100; i++)
+            {
+                if (i % 18 == 0) Console.WriteLine($"{i}");
+            }
+            Console.WriteLine("задание 5");
+            for (int i = 0, j = 35; ; i++, j--)
+            {
+                Console.WriteLine($"{i}, {j}");
+                if ((i - j) == 3) break;
+            }
+
+
         }
     }
 }
