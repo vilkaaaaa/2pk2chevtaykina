@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz5", "pz5\pz5.csproj", "{C2A1C377-73F1-4042-8B46-4B1C111B34CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A1C377-73F1-4042-8B46-4B1C111B34CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A1C377-73F1-4042-8B46-4B1C111B34CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A1C377-73F1-4042-8B46-4B1C111B34CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A1C377-73F1-4042-8B46-4B1C111B34CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167B4BCE-D786-4BC5-B423-4456AC04EFB9}
+	EndGlobalSection
+EndGlobal
