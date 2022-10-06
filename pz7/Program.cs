@@ -7,7 +7,6 @@
             Console.WriteLine("Введите 10 чисел");
             char[] numbers = new char[10];
 
-        //    
             for (int i = 0; i < numbers.Length; i++)
             {
                 numbers[i] = Convert.ToChar(Console.ReadLine());
